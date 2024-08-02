@@ -1,0 +1,17 @@
+	Tr1
+Cb_1	Crode
+Cb_3_1	Crode
+Cb_4_1	Crode
+Cb_5_1	Crode
+Cb_6	Crode
+Control_4	Healthy
+Control_5_1	Healthy
+Control_6_1	Healthy
+Control_7_1	Healthy
+Control_8_1	Healthy
+Ox_1_1	OxC
+Ox_3_1	OxC
+Ox_4	OxC
+Ox_7	OxC
+Ox_8	OxC
+

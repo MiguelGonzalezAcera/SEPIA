@@ -1,0 +1,10 @@
+	Tr1
+D4_182	Casp8floxIle
+D4_184	Casp8floxIle
+D4_195	Casp8floxIle
+D4_326	Casp8floxIle
+D4_284	Casp8floxIle
+D4_187	Casp8dIECIle
+D4_321	Casp8dIECIle
+D4_131	Casp8dIECIle
+D4_87	Casp8dIECIle

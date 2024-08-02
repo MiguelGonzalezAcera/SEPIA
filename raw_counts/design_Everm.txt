@@ -1,0 +1,7 @@
+	Tr1
+EV1	Everm
+EV2	Everm
+EV3	Everm
+WT1	Healthy
+WT2	Healthy
+WT3	Healthy

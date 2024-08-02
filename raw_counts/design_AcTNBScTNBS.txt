@@ -1,0 +1,15 @@
+	Tr1
+Bl6colon71	Healthy
+Bl6colon72	Healthy
+Bl6colon73	Healthy
+Bl6colon74	Healthy
+Bl6colon75	Healthy
+Bl6colon76	Healthy
+Co08V381c	cTNBS
+Co10V381c	cTNBS
+Co11V381c	cTNBS
+Co13V581a	AcTNBS
+Co14V581a	AcTNBS
+Co15V581a	AcTNBS
+Co53V582a	AcTNBS
+Co55V582a	AcTNBS

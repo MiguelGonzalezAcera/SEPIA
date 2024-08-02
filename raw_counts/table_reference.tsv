@@ -1,0 +1,14 @@
+Model	Raw_counts	Design	Control	Sample
+AcDSS	raw_counts/raw_counts_AcDSScDSSTC.tsv	raw_counts/design_AcDSScDSSTC.txt	Healthy	AcDSS
+cDSS	raw_counts/raw_counts_AcDSScDSSTC.tsv	raw_counts/design_AcDSScDSSTC.txt	Healthy	cDSS
+Casp8dIECCol	raw_counts/raw_counts_Casp8dIECCol.tsv	raw_counts/design_Casp8dIECCol.txt	Casp8floxCol	Casp8dIECCol
+OxC	raw_counts/raw_counts_OxCCrode.tsv	raw_counts/design_OxCCrode.txt	Healthy	OxC
+AcTNBS	raw_counts/raw_counts_AcTNBScTNBS.tsv	raw_counts/design_AcTNBScTNBS.txt	Healthy	AcTNBS
+cTNBS	raw_counts/raw_counts_AcTNBScTNBS.tsv	raw_counts/design_AcTNBScTNBS.txt	Healthy	cTNBS
+TC	raw_counts/raw_counts_AcDSScDSSTC.tsv	raw_counts/design_AcDSScDSSTC.txt	RKO	TC
+TNFdARECol	raw_counts/raw_counts_TNFdARE.tsv	raw_counts/design_TNFdARE.txt	WTCol	TNFdARECol
+Hhepa	raw_counts/raw_counts_Hhepa.tsv	raw_counts/design_Hhepa.txt	Healthy	Hhepa
+Crode	raw_counts/raw_counts_OxCCrode.tsv	raw_counts/design_OxCCrode.txt	Healthy	Crode
+Casp8dIECIle	raw_counts/raw_counts_Casp8dIECIle.tsv	raw_counts/design_Casp8dIECIle.txt	Casp8floxIle	Casp8dIECIle
+TNFdAREIle	raw_counts/raw_counts_TNFdARE.tsv	raw_counts/design_TNFdARE.txt	WTIle	TNFdAREIle
+Everm	raw_counts/raw_counts_Everm.tsv	raw_counts/design_Everm.txt	Healthy	Everm

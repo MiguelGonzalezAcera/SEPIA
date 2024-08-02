@@ -1,0 +1,10 @@
+	Tr1
+Col_182	Casp8floxCol
+Col_184	Casp8floxCol
+Col_195	Casp8floxCol
+Col_326	Casp8floxCol
+Col_100	Casp8dIECCol
+Col_131	Casp8dIECCol
+Col_186	Casp8dIECCol
+Col_87	Casp8dIECCol
+Col_9	Casp8dIECCol
