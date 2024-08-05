@@ -2,6 +2,9 @@
 # This script performs the differential expression for each mouse model separately.
 # It must be run initially, as it generates the neccesary tables for posterior analyses
 
+# Raw counts files are obtained by mapping the raw fastq files to the mouse genome and
+# extracting the counts per gene with featureCounts
+
 suppressPackageStartupMessages(library(DESeq2))
 suppressPackageStartupMessages(library(limma))
 suppressPackageStartupMessages(library(org.Mm.eg.db))
