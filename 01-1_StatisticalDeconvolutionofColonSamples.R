@@ -9,16 +9,15 @@ library(DWLS)
 # Determine the files with the normalized counts
 # list the file names for ileum and colon
 files_col <-  c(
+    # Contains AcDSS, cDSS and TC
     "detables/AcDSS_norm_counts.Rda",
-    "detables/cDSS_norm_counts.Rda",
     "detables/Casp8dIECCol_norm_counts.Rda",
-    "detables/TC_norm_counts.Rda",
+    # Contains OxC and Crode
     "detables/OxC_norm_counts.Rda",
+    # contains AcTNBS and cTNBS
     "detables/AcTNBS_norm_counts.Rda",
-    "detables/cTNBS_norm_counts.Rda",
     "detables/TNFdARECol_norm_counts.Rda",
-    "detables/Hhepa_norm_counts.Rda",
-    "detables/Crode_norm_counts.Rda"
+    "detables/Hhepa_norm_counts.Rda"
 )
 
 # Load the signature matrix from GSE168033
