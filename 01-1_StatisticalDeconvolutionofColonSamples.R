@@ -1,6 +1,9 @@
 # 01-1 - Statistical deconvolution of colon samples - Part 1
 # This script performs the statistical deconvolution of the bulk RNAseq tables.
 
+# Required:
+# 00 - DifferentialExpressionMouseModels
+
 # Signature matrix is obtained processing the single cell dataset and
 # running the DWLS sing matrix generation functions on them
 

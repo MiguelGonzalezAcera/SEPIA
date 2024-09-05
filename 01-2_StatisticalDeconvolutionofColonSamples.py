@@ -1,6 +1,9 @@
 # 01-2 - Statistical deconvolution of colon samples - Part 2
 # This script plots the deconvolution results from the colonic mouse model samples.
 
+# Required:
+# 01-1 - StatisticalDeconvolutionofColonSamples.R
+
 import pandas as pd
 import numpy as np
 import matplotlib.pyplot as plt
